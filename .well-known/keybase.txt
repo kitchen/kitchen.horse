@@ -1,0 +1,49 @@
+==================================================================
+https://keybase.io/kitchen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kitchen.horse
+  * I am kitchen (https://keybase.io/kitchen) on keybase.
+  * I have a public key ASB0JHiZWJPlCPStnjQUpdswTNV2DcMD7EDOz28nt-CdMwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101992252b890546c24744d2f37139e4064fed79d2e707f59b8981e4367dacfa6350a",
+      "host": "keybase.io",
+      "kid": "0120742478995893e508f4ad9e3414a5db304cd5760dc303ec40cecf6f27b7e09d330a",
+      "uid": "842e60cb606eea95739ba227533cb700",
+      "username": "kitchen"
+    },
+    "merkle_root": {
+      "ctime": 1615102758,
+      "hash": "f9b120f0028af53fe8201911cb981ef4ddd7fdb55e152aca940e988c76ee72b4e1044f99fb181d0b4e5c4ddf1118da64e30ebd73223ded71c8717f56f39b1006",
+      "hash_meta": "0e22817803d175f667c8a7015e8780049513d4ba83f7497be7c269d7d746d4d7",
+      "seqno": 19311246
+    },
+    "service": {
+      "entropy": "GZiyysG7Vs4Yh28Pkq345jCg",
+      "hostname": "kitchen.horse",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1615102767,
+  "expire_in": 504576000,
+  "prev": "56908f4d0baef12eb5cf08f97c547f275c663c590058dcbf8727d00443c779df",
+  "seqno": 93,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdCR4mViT5Qj0rZ40FKXbMEzVdg3DA+xAzs9vJ7fgnTMKp3BheWxvYWTESpcCXcQgVpCPTQuu8S61zwj5fFR/J1xmPFkAWNy/hyfQBEPHed/EIE865D7pMEBRBT18R4PZOmfj1dgtQllhtREdkKiiTooQAgHCo3NpZ8RAFtkD52xqeFTeZMkf2IgRsiNimE7urTPum0SslW9cFkczTPSKaDmcZ47XTjNnDi7SswK6De9iuIe4H7ZttiYuB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINuFvBdlLwpdfqOhWig2kSDgrDnYXWzdU4cl3wvJuegOo3RhZ80CAqd2ZXJzaW9uAQ==
